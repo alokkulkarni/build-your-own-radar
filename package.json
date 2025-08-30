@@ -31,7 +31,7 @@
     "babel-loader": "^8.2.3",
     "css-loader": "^6.7.1",
     "cssnano": "^6.0.0",
-    "cypress": "^12.6.0",
+    "cypress": "^14.3.3",
     "dotenv": "^16.0.0",
     "eslint": "^8.10.0",
     "eslint-config-prettier": "^8.5.0",
@@ -51,7 +51,7 @@
     "sass": "^1.53.0",
     "sass-loader": "^12.6.0",
     "style-loader": "^3.3.1",
-    "webpack": "^5.76.0",
+    "webpack": "^5.99.8",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.4",
     "yargs": "^17.3.1"
@@ -63,7 +63,7 @@
     "jquery": "^3.6.4",
     "jquery-ui": "^1.13.2",
     "lodash": "^4.17.21",
-    "sanitize-html": "^2.7.0"
+    "sanitize-html": "^2.12.1"
   },
   "standard": {
     "globals": [
